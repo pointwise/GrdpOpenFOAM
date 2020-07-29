@@ -6,10 +6,10 @@ this repository into your local PluginSDK installation.
 This plugin was created with the `mkplugin` options `-c` and `-grdp`.
 
 This plugin uses the following custom source files.
- * `PluginSDK\src\plugins\GrdpMyOpenFOAM\FaceListFile.h`
- * `PluginSDK\src\plugins\GrdpMyOpenFOAM\FoamFile.h`
- * `PluginSDK\src\plugins\GrdpMyOpenFOAM\LabelListFile.h`
- * `PluginSDK\src\plugins\GrdpMyOpenFOAM\VectorFieldFile.h`
+ * `FaceListFile.h`
+ * `FoamFile.h`
+ * `LabelListFile.h`
+ * `VectorFieldFile.h`
 
 See [How To Integrate Plugin Code][HowTo] for details.
 
